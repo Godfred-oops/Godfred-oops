@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godfred-oops&label=Profile%20views&color=0e75b6&style=flat" alt="godfred-oops" /> </p>
 
-- 🔭 I’m currently working on **Capsule Network**
+- 🔭 I’m currently studying Structural and Earthquake Engineering @ UCLA
 
-- 🌱 I’m currently learning **CS 50, C programming language**
+- 🌱 I’m currently writing a lot of code in matlab to analyse the response of structures to ground motions, scaling ground motions using RStudio and Performance-Based Earthquake Engineering
 
 - 👨‍💻 All of my projects are available at [https://github.com/Godfred-oops](https://github.com/Godfred-oops)
 
-- 💬 Ask me about **ML, AI, Calculus, DL etc**
+- 💬 Ask me about **Application of ML/AI/DL in solving structural engineering problems**
 
 - 📫 How to reach me **ababiogodfred332@gmail.com**
 
