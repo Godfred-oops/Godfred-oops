@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Application of ML/AI/DL in solving structural engineering problems**
 
-- 📫 How to reach me **ababiogodfred332@gmail.com**
+- 📫 How to reach me **ababiogodfred332@gmail.com/godfred332@ucla.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
