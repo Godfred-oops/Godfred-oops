@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying Structural and Earthquake Engineering @ UCLA
 
-- 🌱 I’m currently writing a lot of code in matlab to analyse the response of structures to ground motions, scaling ground motions using RStudio and Performance-Based Earthquake Engineering
+- 🌱 I’m currently writing a lot of code in matlab to analyse the behaviour of isolated systems in a structure excited with ground motions
 
 - 👨‍💻 All of my projects are available at [https://github.com/Godfred-oops](https://github.com/Godfred-oops)
 
